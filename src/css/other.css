@@ -1,0 +1,13 @@
+.invalid-tooltip {
+    position: static;
+    top: 100%;
+    z-index: 5;
+    display: none;
+    max-width: 100%;
+    padding: .25rem .5rem;
+    margin-top: .1rem;
+    font-size: .875rem;
+    color: #fff;
+    background-color: rgba(220,53,69,.9);
+    border-radius: .25rem;
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Rubik&display=swap');
+
+.title {
+    font-family: 'Rubik', sans-serif;
+}
+
+.normalText {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bigFont {
+    font-size: larger;
+}
+
+.bigFontChild > * {
+    font-size: larger;
+}
+
+.childrenNormalText > * {
+    font-family: 'Roboto', sans-serif;
+}
