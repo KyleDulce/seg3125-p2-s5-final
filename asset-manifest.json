@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KyleDulce/seg3125-p2-s5-final/static/css/main.52e9a35b.css",
-    "main.js": "/KyleDulce/seg3125-p2-s5-final/static/js/main.a76bf0e5.js",
+    "main.js": "/KyleDulce/seg3125-p2-s5-final/static/js/main.8a3f1f76.js",
     "static/js/787.d25499c5.chunk.js": "/KyleDulce/seg3125-p2-s5-final/static/js/787.d25499c5.chunk.js",
     "static/media/community.jpg": "/KyleDulce/seg3125-p2-s5-final/static/media/community.c6ce4e71fce01ee149f9.jpg",
     "static/media/code-yellow.jpg": "/KyleDulce/seg3125-p2-s5-final/static/media/code-yellow.3209719faee992300c24.jpg",
@@ -25,11 +25,11 @@
     "static/media/FOR-REAL.png": "/KyleDulce/seg3125-p2-s5-final/static/media/FOR-REAL.0e1f63da4dd8ec6a9da4.png",
     "index.html": "/KyleDulce/seg3125-p2-s5-final/index.html",
     "main.52e9a35b.css.map": "/KyleDulce/seg3125-p2-s5-final/static/css/main.52e9a35b.css.map",
-    "main.a76bf0e5.js.map": "/KyleDulce/seg3125-p2-s5-final/static/js/main.a76bf0e5.js.map",
+    "main.8a3f1f76.js.map": "/KyleDulce/seg3125-p2-s5-final/static/js/main.8a3f1f76.js.map",
     "787.d25499c5.chunk.js.map": "/KyleDulce/seg3125-p2-s5-final/static/js/787.d25499c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52e9a35b.css",
-    "static/js/main.a76bf0e5.js"
+    "static/js/main.8a3f1f76.js"
   ]
 }
