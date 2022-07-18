@@ -42,7 +42,7 @@ export default function Layout() {
                     </div>
                     <Navbar role="navigation" className='py-0' expand="md" style={Object.assign({}, navBarStyle)}>
                         <Container className="mx-0 w-100" style={{maxWidth: "100%"}}>
-                            <Navbar.Brand href="/seg3125-p2-engine" className="ml-1 my-0">
+                            <Navbar.Brand href="/seg3125-p2-s5-final" className="ml-1 my-0">
                                 <img aria-label='Home' src={logo} alt="logo" style={Object.assign({height: "5rem"}, logoStyle)}/>
                             </Navbar.Brand>
                             <Navbar.Toggle aria-controls='collapse-header' style={{color: "white", borderColor: "white"}}> 
@@ -50,15 +50,15 @@ export default function Layout() {
                             </Navbar.Toggle>
                             <Navbar.Collapse id="collapse-header">
                                     <Nav className='childrenNormalText bigFontChild'>
-                                        <Nav.Link className='mx-3' style={navText} href="/seg3125-p2-engine/#/product"><b>Product</b></Nav.Link>
-                                        <Nav.Link className='mx-3' style={navText} href="/seg3125-p2-engine/#/learn"><b>Learn</b></Nav.Link>
-                                        <Nav.Link className='mx-3' style={navText} href="/seg3125-p2-engine/#/forums"><b>Forums</b></Nav.Link>
+                                        <Nav.Link className='mx-3' style={navText} href="/seg3125-p2-s5-final/#/product"><b>Product</b></Nav.Link>
+                                        <Nav.Link className='mx-3' style={navText} href="/seg3125-p2-s5-final/#/learn"><b>Learn</b></Nav.Link>
+                                        <Nav.Link className='mx-3' style={navText} href="/seg3125-p2-s5-final/#/forums"><b>Forums</b></Nav.Link>
                                     </Nav>
                             </Navbar.Collapse>
                             <Navbar.Collapse className='justify-content-end' id="collapse-header">
                                 <Nav>
                                     {shouldShowGetStarted && (
-                                        <Nav.Link style={navText} href="/seg3125-p2-engine/#/signup">
+                                        <Nav.Link style={navText} href="/seg3125-p2-s5-final/#/signup">
                                             <Button className='normalText blackColor bigFont mx-2 accentSolidButton'>Get Started</Button>
                                         </Nav.Link>
                                     )}
@@ -79,8 +79,8 @@ export default function Layout() {
                                     )}
                                         
                                     <NavDropdown className='my-auto childrenNormalText mx-2' style={centerText} align="end" title={<PersonCircle style={navText}/>}>
-                                        <NavDropdown.Item href='/seg3125-p2-engine/#/signup'><PersonCircle />  Create an Account</NavDropdown.Item>
-                                        <NavDropdown.Item href='/seg3125-p2-engine/#/signin'><BoxArrowInRight />  Sign in</NavDropdown.Item>
+                                        <NavDropdown.Item href='/seg3125-p2-s5-final/#/signup'><PersonCircle />  Create an Account</NavDropdown.Item>
+                                        <NavDropdown.Item href='/seg3125-p2-s5-final/#/signin'><BoxArrowInRight />  Sign in</NavDropdown.Item>
                                     </NavDropdown>
                                 </Nav>
                             </Navbar.Collapse>
